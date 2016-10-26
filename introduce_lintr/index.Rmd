@@ -1,0 +1,20 @@
+---
+title: "Package lintr - chuẩn hóa phong cách viết code R"
+author: "Tho Duy Nguyen"
+date: "26 October 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Giới thiệu
+
+Bài viết giới thiệu package `lintr` hỗ trợ người phát triển `R` chuẩn hóa phong cách soạn thảo mã nguồn `R`
+
+# Chuẩn hóa phong cách viết mã `R` là việc cần thiết
+
+Với sự phát triển nhanh chóng của khoa học dữ liệu, `R` đã được sử dụng nhiều hơn, không những trong giới học thuật, giảng dạy xác suất thống kê mà còn sử dụng để phát triển các ứng dụng phân tích và xử lý dữ liệu đặc thù 
+
+Người sử dụng `R` có xuất xứ vô cùng đa dạng, không tương đối thuần nhất như nhiều ngôn ngữ lập trình phổ biến khác. Đi kèm với đó là lịch sử lâu dài được sử dụng 
